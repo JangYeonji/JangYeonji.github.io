@@ -1,3 +1,8 @@
+---
+layout: splash
+title:  "210914_Pandas_판다스의 멀티프로세싱"
+---
+
 # muitiprocessing
 
 
